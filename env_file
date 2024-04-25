@@ -1,0 +1,6 @@
+//o arquivo que vai ser amazenado o segredo da atenticação vai ter o final .env
+//o atual arquivo é apenas o modelo
+
+module.exports = {
+    authSecrete: ''
+}
